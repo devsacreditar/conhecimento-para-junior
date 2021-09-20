@@ -1,5 +1,5 @@
 # Iniciando na Carreira de Programação
-Esse repositório tem como premissa entregar conteúdo gratuito para que as pessoas que estão em transição ou começando a carreira na programação.
+Esse repositório tem como premissa entregar conteúdo gratuito para as pessoas que estão em transição ou começando a carreira na programação.
 
 Obs: Os conteúdos são links gratuitos existentes na internet. Não é de responsabilidade da devsAcreditar sobre o conteúdo de cada link, tão pouco se há publicidade ou solicitação de pagamento após o conteúdo ser consumido.
 
