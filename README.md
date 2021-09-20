@@ -19,4 +19,6 @@ Obs: Os conteúdos são links gratuitos existentes na internet. Não é de respo
 - [Orientação a objetos](https://digitalinnovation.one/cursos/orientacao-a-objetos/?ref=lp&hidden_text&source=/skills/javascript&)
 
 
-Bons estudos 
+Não se esqueça de se cadastrar na devsAcreditar e ser encontrado por empresas e recrutadores <3
+
+- [Me cadastrar na devsAcreditar](https://www.devsacreditar.com.br/register)
