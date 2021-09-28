@@ -3,8 +3,10 @@ Esse repositório tem como premissa entregar conteúdo gratuito para as pessoas 
 
 Obs: Os conteúdos são links gratuitos existentes na internet. Não é de responsabilidade da devsAcreditar sobre o conteúdo de cada link, tão pouco se há publicidade ou solicitação de pagamento após o conteúdo ser consumido.
 
-
+## Ambiente de desenvolvimento
 - [IDE Instalação e Configuração (Visual Studio Code)](https://digitalinnovation.one/cursos/ide-instalacao-e-configuracao-visual-studio-code/?ref=lp&hidden_text&source=/skills/javascript&)
+
+## JavaScript
 - [Programação para internet com JavaScript](https://digitalinnovation.one/cursos/programacao-para-internet-com-javascript/?ref=lp&hidden_text&source=/skills/javascript&)
 - [Introdução ao JavaScript](https://digitalinnovation.one/cursos/introducao-ao-javascript/?ref=lp&hidden_text&source=/skills/javascript&)
 - [Variáveis e Tipos](https://digitalinnovation.one/cursos/variaveis-e-tipos/?ref=lp&hidden_text&source=/skills/javascript&)
